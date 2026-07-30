@@ -1,14 +1,12 @@
-# Hi there, I'm Lohith E 👋
+<div align="center">
 
-<h3 align="center">
-Final Year B.Tech CSE Student @ VIT | Full-Stack Developer | AI/ML Enthusiast
-</h3>
+# Hi 👋, I'm Lohith E
 
-<p align="center">
-Building scalable software, AI-powered applications, and solving real-world problems through code.
-</p>
+### 🚀 Full-Stack Developer • AI/ML Enthusiast • Java Developer
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Java+Developer;Building+Software+that+Solves+Real-World+Problems;Always+Learning+Something+New" alt="Typing SVG" />
+
+<p>
   <a href="https://github.com/Lohith-Elumalai">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -18,76 +16,50 @@ Building scalable software, AI-powered applications, and solving real-world prob
   <a href="https://yourportfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/your-leetcode">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=Lohith-Elumalai&style=for-the-badge&color=blue)
+
+</div>
+
 ---
 
 # 👨‍💻 About Me
 
-🎓 Final Year B.Tech Computer Science student at **VIT**
+🎓 Final Year B.Tech Computer Science Student @ **VIT**
 
-💡 Passionate about designing and developing software that solves real-world problems.
+💻 Passionate about building scalable software and solving real-world problems.
 
-🚀 Hands-on experience building:
-- Full-Stack Web Applications
-- AI & Machine Learning Solutions
-- Backend Services & REST APIs
-- Computer Vision Applications
+🚀 Experienced in:
 
-📚 Currently exploring:
-- Site Reliability Engineering (SRE)
-- AWS Cloud
-- DevOps
-- System Design
+- 🌐 Full-Stack Web Development
+- 🤖 Artificial Intelligence & Machine Learning
+- ⚙️ Backend Development & REST APIs
+- 📊 Data Structures & Algorithms
 
-💼 Actively seeking **Software Development Engineer (SDE)** and **Site Reliability Engineer (SRE)** opportunities.
+🌱 Currently Learning
+
+- ☁️ AWS Cloud
+- ⚡ Site Reliability Engineering (SRE)
+- 🏗️ System Design
+- 🐳 DevOps
+
+🎯 **Actively looking for Software Development Engineer (SDE) and Site Reliability Engineer (SRE) opportunities.**
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,react,nextjs,nodejs,express,fastapi,mongodb,mysql,postgres,docker,kubernetes,aws,git,github,vscode,postman,tensorflow&perline=10"/>
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-### AI / ML
-
-- TensorFlow
-- Keras
-- OpenCV
-- NLP
-- Scikit-Learn
-
-### DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,vscode,postman" />
 </p>
 
 ---
@@ -96,16 +68,14 @@ Building scalable software, AI-powered applications, and solving real-world prob
 
 ## ❤️ Supervised Early Myocardial Infarction Disease Detection
 
-**Tech Stack**
+> **TensorFlow • MobileNetV2 • Apache Kafka • Streamlit • Docker • Python**
 
-TensorFlow • MobileNetV2 • Apache Kafka • Docker • Streamlit • Python
+- 🧠 AI-powered heart attack detection system.
+- 📈 Deep Learning using MobileNetV2.
+- ⚡ Real-time data processing with Apache Kafka.
+- 📊 Interactive dashboard built with Streamlit.
 
-- Developed an AI-powered system for early myocardial infarction detection.
-- Built deep learning models using MobileNetV2.
-- Designed an interactive Streamlit dashboard.
-- Integrated Apache Kafka for real-time data processing.
-
-🔗 Repository
+🔗 **Repository**
 
 https://github.com/Lohith-Elumalai/heart-disease-detection
 
@@ -113,16 +83,14 @@ https://github.com/Lohith-Elumalai/heart-disease-detection
 
 ## 🍽️ Licious Foods
 
-**Tech Stack**
+> **React • Node.js • Express.js • MongoDB**
 
-React • Node.js • Express.js • MongoDB
+- 🍕 Full-stack food ordering platform.
+- 🔐 Secure Authentication.
+- 🛒 Cart & Order Management.
+- 📱 Fully Responsive UI.
 
-- Full-stack food ordering application.
-- User authentication and order management.
-- Interactive UI with responsive design.
-- Backend REST APIs for seamless communication.
-
-🔗 Repository
+🔗 **Repository**
 
 https://github.com/Lohith-Elumalai/licious-foods
 
@@ -130,16 +98,14 @@ https://github.com/Lohith-Elumalai/licious-foods
 
 ## 💰 CoinCradle
 
-**Tech Stack**
+> **React • Python • AI**
 
-React • Python • AI
+- 💸 Personal Finance Tracker.
+- 🤖 AI-assisted expense categorization.
+- 📊 Interactive analytics dashboard.
+- 📈 Financial insights.
 
-- AI-powered personal finance tracker.
-- Automatic expense categorization.
-- Financial insights through interactive dashboards.
-- Focused on improving personal budgeting experience.
-
-🔗 Repository
+🔗 **Repository**
 
 https://github.com/Lohith-Elumalai/coincradle
 
@@ -149,9 +115,9 @@ https://github.com/Lohith-Elumalai/coincradle
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lohith-Elumalai&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lohith-Elumalai&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohith-Elumalai&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohith-Elumalai&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -160,15 +126,14 @@ https://github.com/Lohith-Elumalai/coincradle
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Lohith-Elumalai&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=Lohith-Elumalai&theme=tokyonight&hide_border=true"/>
+
 </p>
-
----
-
-# 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Lohith-Elumalai&theme=tokyonight&margin-w=15&margin-h=15"/>
+  <img src="https://raw.githubusercontent.com/Lohith-Elumalai/Lohith-Elumalai/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -176,55 +141,110 @@ https://github.com/Lohith-Elumalai/coincradle
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lohith-Elumalai&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 🏆 GitHub Trophies
 
-📧 Email
+<p align="center">
 
-https://your-email@gmail.com
+<img src="https://github-profile-trophy.vercel.app/?username=Lohith-Elumalai&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-💼 LinkedIn
-
-https://linkedin.com/in/your-linkedin
-
-🌐 Portfolio
-
-https://yourportfolio.vercel.app
-
-💻 LeetCode
-
-https://leetcode.com/your-leetcode
-
-🐦 X (Twitter)
-
-https://twitter.com/yourusername
-
-📷 Instagram
-
-https://instagram.com/yourusername
+</p>
 
 ---
 
-# 💡 Fun Fact
+# 📚 Current Focus
+
+```text
+💻 Building scalable Full-Stack Applications
+
+☁️ Learning AWS & Kubernetes
+
+🧠 Solving DSA every day
+
+⚡ Exploring Site Reliability Engineering
+
+🚀 Preparing for Software Engineering roles
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://yourportfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/your-leetcode">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://x.com/your-x">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://instagram.com/your-instagram">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Favorite Quote
+
+> **"First, solve the problem. Then, write the code."** — John Johnson
+
+---
+
+# ⚡ Fun Code
 
 ```java
-while(!success){
-    learn();
-    build();
-    improve();
+public class Lohith {
+
+    public static void main(String[] args) {
+
+        while (!success) {
+
+            learn();
+
+            code();
+
+            build();
+
+            improve();
+
+        }
+
+        System.out.println("Never Stop Learning 🚀");
+
+    }
+
 }
 ```
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
+<div align="center">
 
-<p align="center">
-"First, solve the problem. Then, write the code."
-</p>
+### ⭐ Thanks for visiting my profile!
+
+### 💙 Thanks for stopping by! Have a great day! 🚀
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=00C8FF&center=true&vCenter=true&width=450&lines=Code+%F0%9F%92%BB;Learn+%F0%9F%93%9A;Build+%F0%9F%9A%80;Repeat+%E2%99%BE"/>
+
+</div>
