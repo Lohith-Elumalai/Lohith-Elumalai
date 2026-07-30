@@ -49,15 +49,48 @@
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,react,nextjs,nodejs,express,fastapi,mongodb,mysql,postgres,docker,kubernetes,aws,git,github,vscode,postman,tensorflow&perline=10"/>
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css,mysql" />
+</p>
 
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### AI / ML
+
+- TensorFlow
+- Keras
+- OpenCV
+- NLP
+- Scikit-Learn
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,vscode,postman" />
 </p>
 
 ---
+
 
 # 🚀 Featured Projects
 
