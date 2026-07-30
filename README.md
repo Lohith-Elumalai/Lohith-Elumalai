@@ -170,6 +170,7 @@ https://github.com/Lohith-Elumalai/coincradle
 ⚡ Exploring Site Reliability Engineering
 
 🚀 Preparing for Software Engineering roles
+```
 
 ---
 
